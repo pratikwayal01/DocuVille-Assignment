@@ -6,7 +6,7 @@
 The Document Capture App is a web application that allows users to upload images of important documents, such as driving licenses and passports, and extract key information from them using Optical Character Recognition (OCR) technology. This project leverages Tesseract.js for OCR processing and provides a user-friendly interface for document handling.
 
 ## 🚀 Features
-- **File Upload**: Easily upload images or PDFs of your documents.
+- **File Upload**: Easily upload images your documents.
 - **OCR Processing**: Automatically extracts text from uploaded images using Tesseract.js.
 - **Document Type Selection**: Choose between different document types to apply relevant extraction rules.
 - **Extracted Information**: Displays extracted details such as:
@@ -31,7 +31,7 @@ The Document Capture App is a web application that allows users to upload images
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/pratikwayal01/Docuville-assignment.git
-   cd document-capture-app
+   cd Docuville-assignment
    ```
 
 2. **Install dependencies**:
